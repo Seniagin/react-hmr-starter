@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "transform-react-jsx",
+    "transform-es2015-modules-umd"
+  ],
+  "presets": ["es2015"],
+  "ignore": [
+    "*.json"
+  ]
+}
