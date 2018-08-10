@@ -3,4 +3,4 @@
 npm i
 npm start
 ```
-you can add your components at react/ folder
+you can add your components at react/ folder2
