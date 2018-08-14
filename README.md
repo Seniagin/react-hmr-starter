@@ -4,3 +4,5 @@ npm i
 npm start
 ```
 you can add your components at react/ folder2
+
+dawd adw adw adw
